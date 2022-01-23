@@ -1,4 +1,4 @@
-README FILE FOR SYED_lpm_add_sub
+----------------README-------------- 
 
 To verify the design, copy the following files into ModelSim:
 1- SYED_Half_Adder
