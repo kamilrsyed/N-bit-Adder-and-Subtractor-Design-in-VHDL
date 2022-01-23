@@ -1,0 +1,24 @@
+Quartus Prime Archive log --	C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_nbit_Add_Sub.qarlog
+
+Archive:	C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_nbit_Add_Sub.qar
+Date:		Sun Sep 19 10:05:35 2021
+Quartus Prime		20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/krsye/Documents/Quartus Projects/SYED_4bit_Add_Sub/SYED_4bit_Add_Sub.vhd
+C:/Users/krsye/Documents/Quartus Projects/SYED_4bit_Full_Adder/SYED_4bit_Full_Adder.vhd
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/Readme.txt
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_1bit_Full_Adder.vhd
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_Half_Adder.vhd
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_Overflow_Logic.vhd
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_nbit_Add.vhd
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_nbit_Add_Sub.qpf
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_nbit_Add_Sub.qsf
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_nbit_Add_Sub.vhd
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/SYED_tb_16bit.vhd
+C:/Users/krsye/Documents/Quartus Projects/SYED_nbit_Add_Sub/add_sub.vhd
+c:/intelfpga_lite/20.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 13 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
